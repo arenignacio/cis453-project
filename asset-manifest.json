@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/cis453-project/static/css/main.97bfea82.chunk.css",
+    "main.js": "/cis453-project/static/js/main.e1a4fe89.chunk.js",
+    "main.js.map": "/cis453-project/static/js/main.e1a4fe89.chunk.js.map",
+    "runtime-main.js": "/cis453-project/static/js/runtime-main.3dd78c6c.js",
+    "runtime-main.js.map": "/cis453-project/static/js/runtime-main.3dd78c6c.js.map",
+    "static/js/2.54ea8f32.chunk.js": "/cis453-project/static/js/2.54ea8f32.chunk.js",
+    "static/js/2.54ea8f32.chunk.js.map": "/cis453-project/static/js/2.54ea8f32.chunk.js.map",
+    "index.html": "/cis453-project/index.html",
+    "static/css/main.97bfea82.chunk.css.map": "/cis453-project/static/css/main.97bfea82.chunk.css.map",
+    "static/js/2.54ea8f32.chunk.js.LICENSE.txt": "/cis453-project/static/js/2.54ea8f32.chunk.js.LICENSE.txt",
+    "static/media/annie-spratt-wGtK3-JzSC4-unsplash.fcae2ec3.jpg": "/cis453-project/static/media/annie-spratt-wGtK3-JzSC4-unsplash.fcae2ec3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3dd78c6c.js",
+    "static/js/2.54ea8f32.chunk.js",
+    "static/css/main.97bfea82.chunk.css",
+    "static/js/main.e1a4fe89.chunk.js"
+  ]
+}
